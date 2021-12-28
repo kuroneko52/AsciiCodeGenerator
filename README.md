@@ -7,7 +7,7 @@ Tips:
 
 1.Input char or string and Return
 
-2.When you want to this program, input exit; and Return
+2.When you want to exit this program, input exit; and Return
 
 
 Example:
